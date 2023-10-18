@@ -1,0 +1,26 @@
+[
+    {
+        "brandName": "BMW",
+        "brandImage": "https://i.ibb.co/pQFrfg8/BmwLogo.png"
+    },
+    {
+        "brandName": "Lamborghini",
+        "brandImage": "https://i.ibb.co/Jx98DMW/Lamborghini-Logo.png"
+    },
+    {
+        "brandName": "Ford",
+        "brandImage": "https://i.ibb.co/NrpchNx/FordLogo.png"
+    },
+    {
+        "brandName": "Mercedes-Benz",
+        "brandImage": "https://i.ibb.co/6Rk6wyf/Mercedes-Benz-Logo.png"
+    },
+    {
+        "brandName": "Tesla",
+        "brandImage": "https://i.ibb.co/85Ccsm8/Tesla-Logo.png"
+    },
+    {
+        "brandName": "Toyota",
+        "brandImage": "https://i.ibb.co/sVB30Hb/Toyota-Log.png"
+    }
+]
