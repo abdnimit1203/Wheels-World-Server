@@ -1,39 +1,38 @@
 [
-
     {
         "id": 1,
         "brandName": "BMW",
         "brandImage": "https://i.ibb.co/pQFrfg8/BmwLogo.png",
-        "bgImage":"https://i.ibb.co/c6v4msg/BmwBG.jpg"
+        "bgImage": "https://i.ibb.co/c6v4msg/BmwBG.jpg"
     },
     {
         "id": 2,
         "brandName": "Lamborghini",
         "brandImage": "https://i.ibb.co/Jx98DMW/Lamborghini-Logo.png",
-        "bgImage":"https://i.ibb.co/Zc3CRTT/lamborghini-BG.jpg"
+        "bgImage": "https://i.ibb.co/Zc3CRTT/lamborghini-BG.jpg"
     },
     {
         "id": 3,
         "brandName": "Ford",
         "brandImage": "https://i.ibb.co/NrpchNx/FordLogo.png",
-        "bgImage":"https://i.ibb.co/QnYWCWG/fordBG.jpg"
+        "bgImage": "https://i.ibb.co/QnYWCWG/fordBG.jpg"
     },
     {
         "id": 4,
         "brandName": "Mercedes-Benz",
         "brandImage": "https://i.ibb.co/6Rk6wyf/Mercedes-Benz-Logo.png",
-        "bgImage":"https://i.ibb.co/PwzZKKh/Mercedes-BG.jpg"
+        "bgImage": "https://i.ibb.co/PwzZKKh/Mercedes-BG.jpg"
     },
     {
         "id": 5,
         "brandName": "Tesla",
         "brandImage": "https://i.ibb.co/85Ccsm8/Tesla-Logo.png",
-        "bgImage":"https://i.ibb.co/W2hs6jR/TeslaBG.jpg"
+        "bgImage": "https://i.ibb.co/W2hs6jR/TeslaBG.jpg"
     },
     {
         "id": 6,
         "brandName": "Toyota",
         "brandImage": "https://i.ibb.co/sVB30Hb/Toyota-Log.png",
-        "bgImage":"https://i.ibb.co/VNBwgTv/ToyotaBG.jpg"
+        "bgImage": "https://i.ibb.co/VNBwgTv/ToyotaBG.jpg"
     }
 ]
