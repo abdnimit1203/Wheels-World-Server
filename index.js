@@ -27,7 +27,7 @@ const client = new MongoClient(uri, {
 
 async function run() {
   try {
-    await client.connect();
+    // await client.connect();
     //DATABASE AND COLLECTION STARTS
 
     const database = client.db("wheelsWorldDB");
@@ -131,8 +131,7 @@ async function run() {
     // cartID wise data delete
     app.delete("/carts/single/:id", async (req, res) => {
       const id = req.params.id;
-     
-    
+
       console.log("please delete from database", id);
       const query = { _id: new ObjectId(id) };
       const result = await cartCollection.deleteOne(query);
@@ -147,10 +146,10 @@ async function run() {
     });
 
     // Send a ping to confirm a successful connection
-    await client.db("admin").command({ ping: 1 });
-    console.log(
-      "Pinged your deployment. You successfully connected to MongoDB!"
-    );
+    // await client.db("admin").command({ ping: 1 });
+    // console.log(
+    //   "Pinged your deployment. You successfully connected to MongoDB!"
+    // );
   } finally {
     // Ensures that the client will close when you finish/error
     // await client.close();
